@@ -1,1 +1,1 @@
-# gerador-e-senhas
+# geraor
